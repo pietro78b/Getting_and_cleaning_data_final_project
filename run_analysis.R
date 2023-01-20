@@ -2,7 +2,7 @@
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
 # Specify destination where file should be saved
-destfile <- "C:/Users/pietrobartocci/Desktop/datasciencecoursera"
+destfile <- "C:/Users/pietrobartocci/Desktop"
 
 # Apply download.file function in R
 fileName <- "UCIdata.zip"
